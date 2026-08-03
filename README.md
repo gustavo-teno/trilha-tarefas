@@ -1,2 +1,2 @@
-﻿# trilha-tarefas
-tarefas de casa do trilha 26.1
+﻿# Trilha
+Tarefas e projetos do Trilha - 2026.1
